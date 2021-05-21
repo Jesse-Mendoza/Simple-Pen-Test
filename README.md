@@ -1,15 +1,18 @@
 # Simple-Pen-Test
+
 A simulated penetration test against a CEO's workstation at GoodCorp Inc.
 
-The CEO claims to have passwords that are long and complex and therefore unhackable.
 
 
 # Tasks 
-Gain access to the CEO's computer and using a Meterpreter session to search for two files that contain the following strings: 
-  recipe
-  seceretfile
-  
+
 Perform a service and version scan using Nmap to determine which services are up and running.
+
+Gain access to the CEO's computer and using a Meterpreter session to search for two files that contain the following strings: 
+  • recipe
+  • seceretfile
+  
+
 
 # Scope
 
