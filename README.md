@@ -7,9 +7,7 @@ A simulated penetration test against a CEO's workstation at GoodCorp Inc.
 
 • Perform a service and version scan using Nmap to determine which services are up and running, and determine eploitable services.
 
-• Gain access to the CEO's computer and using a Meterpreter session to search for two files that contain the following strings:                                                     
-    ⚬ recipe
-    ⚬ seceretfile
+• Gain access to the CEO's computer and using a Meterpreter session to search for two files that contain the following strings:                                                         ⚬ recipe                                                                                                                                                                           ⚬ seceretfile
 
 • Run a Meterpreter post script that enumerates all logged on users.
 
